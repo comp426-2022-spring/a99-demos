@@ -9,6 +9,7 @@ See illustration below.
 | Team Name | Demo video link | Project repo | 
 |:--- |:--- |:--- |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
+| porrima | https://drive.google.com/file/d/1-y9WJAebOdZtfaxghzpMVZAWbZwOj35I/view | https://github.com/comp426-2022-spring/a99-porrima |
 
 ## Propose changes and create pull request
 
