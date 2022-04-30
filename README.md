@@ -9,6 +9,7 @@ See illustration below.
 | Team Name | Demo video link | Project repo | 
 |:--- |:--- |:--- |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
+| pollux | https://www.youtube.com/watch?v=G2-9A3UrY44&feature=youtu.be | https://github.com/comp426-2022-spring/a99-pollux
 
 ## Propose changes and create pull request
 
