@@ -7,8 +7,7 @@ To save it, Make sure to click the green button at the bottom that says "Propose
 See illustration below.
 
 | Team Name | Demo video link | Project repo | 
-|:--- |:--- |:--- |
-| exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
+| taygeta | https://youtu.be/7oj3blfeIsI | https://github.com/comp426-2022-spring/a99-taygeta |
 
 ## Propose changes and create pull request
 
