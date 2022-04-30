@@ -8,7 +8,7 @@ See illustration below.
 
 | Team Name | Demo video link | Project repo | 
 |:--- |:--- |:--- |
-| exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
+| fulu | https://www.youtube.com/watch?v=UM9POk1RJ3Q | https://github.com/comp426-2022-spring/a99-fulu
 
 ## Propose changes and create pull request
 
@@ -19,3 +19,4 @@ Scroll to the bottom of this page in edit mode and you should see:
 Once you have pressed the "Propose changes" button, you should be redirected to this page where you must click the button that says "Create pull request."
 
 ![Create pull request](https://user-images.githubusercontent.com/2459227/161869772-c1fbd6d5-fa7e-43f0-8827-2ea2e07ec082.png)
+
