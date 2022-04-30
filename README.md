@@ -1,5 +1,7 @@
 # Final Project Demos List
 
+| furud | https://vimeo.com/704761296 | https://github.com/comp426-2022-spring/a99-furud |
+
 Add your team name, a link to your demo video, and a link to your main project repository (whatever it is named).
 To do this, just make it look like the example on line 11.
 
