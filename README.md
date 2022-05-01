@@ -10,6 +10,8 @@ See illustration below.
 |:--- |:--- |:--- |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
 
+| kochab | https://www.youtube.com/watch?v=HFW1kM_c_aw | https://github.com/comp426-2022-spring/a99-kochab |
+
 ## Propose changes and create pull request
 
 Scroll to the bottom of this page in edit mode and you should see: 
