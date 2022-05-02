@@ -10,6 +10,8 @@ See illustration below.
 |:--- |:--- |:--- |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
 
+| Toliman | https://youtu.be/9No7bpWNnJE | https://github.com/comp426-2022-spring/a99-toliman |
+
 ## Propose changes and create pull request
 
 Scroll to the bottom of this page in edit mode and you should see: 
