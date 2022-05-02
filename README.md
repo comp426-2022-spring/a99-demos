@@ -8,7 +8,7 @@ See illustration below.
 
 | Team Name | Demo video link | Project repo | 
 |:--- |:--- |:--- |
-| exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
+| Achernar | https://www.youtube.com/watch?v=CNQWKvCJ6-k | https://github.com/comp426-2022-spring/a99-achernar |
 
 ## Propose changes and create pull request
 
