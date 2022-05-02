@@ -9,6 +9,7 @@ See illustration below.
 | Team Name | Demo video link | Project repo | 
 |:--- |:--- |:--- |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
+| team Gacrux | https://youtu.be/9RTMA6h6NR8 | https://github.com/comp426-2022-spring/a99-gacrux.git |
 
 ## Propose changes and create pull request
 
