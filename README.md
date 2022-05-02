@@ -7,7 +7,7 @@ To save it, Make sure to click the green button at the bottom that says "Propose
 See illustration below.
 
 | Team Name | Demo video link | Project repo | 
-|:--- |:--- |:--- |
+|:Izar |:https://drive.google.com/file/d/19TVPgdktO26rjEv2OHeJTFfpqOOyDOKh/view?usp=sharing |:https://github.com/comp426-2022-spring/a99-izar |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
 
 ## Propose changes and create pull request
