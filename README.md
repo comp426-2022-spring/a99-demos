@@ -9,7 +9,10 @@ See illustration below.
 | Team Name | Demo video link | Project repo | 
 |:--- |:--- |:--- |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
+| gacrux | https://youtu.be/9RTMA6h6NR8 | https://github.com/comp426-2022-spring/a99-gacrux.git |
+| nashira| https://youtu.be/pNEvRCqP23k | https://github.com/comp426-2022-spring/a99-nashira |
 | regulus | https://www.youtube.com/watch?v=MSWbGls5WHI | https://github.com/comp426-2022-spring/a99-regulus |
+| rotanev | https://youtu.be/RdxQurkpPl0 | https://github.com/comp426-2022-spring/a99-rotanev |
 
 ## Propose changes and create pull request
 
