@@ -8,6 +8,7 @@ See illustration below.
 
 | Team Name | Demo video link | Project repo | 
 |:--- |:--- |:--- |
+| nashira| https://youtu.be/pNEvRCqP23k | https://github.com/comp426-2022-spring/a99-nashira |
 | rotanev | https://youtu.be/RdxQurkpPl0 | https://github.com/comp426-2022-spring/a99-rotanev |
 
 ## Propose changes and create pull request
